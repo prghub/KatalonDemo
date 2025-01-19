@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_You logged into a secure area</name>
+   <tag></tag>
+   <elementGuidId>262d8506-4ce0-4f93-b41e-fb96e6696c2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#flash</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='flash']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;You logged into a secure area! ×&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>33ad346c-9936-428c-827a-1f3d9e7be579</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>flash</value>
+      <webElementGuid>4e910950-015e-4f92-a858-c349fb72cf63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flash success</value>
+      <webElementGuid>875ebaf5-0331-4015-b27c-dd248f8890f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            You logged into a secure area!
+            ×
+          </value>
+      <webElementGuid>ac583626-3f05-401a-ae63-87319c2eceda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;flash&quot;)</value>
+      <webElementGuid>292ef8ed-80ef-49de-978a-9fe3dfded7b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='flash']</value>
+      <webElementGuid>71030147-be5c-47f4-8336-f0a5d8c147c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='flash-messages']/div</value>
+      <webElementGuid>15d4f1f3-6ad0-4dc6-acf9-e3defceb9e96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secure Area'])[1]/preceding::div[1]</value>
+      <webElementGuid>55b4d86f-949c-43b8-81a5-f22976277599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to the Secure Area. When you are done click logout below.'])[1]/preceding::div[1]</value>
+      <webElementGuid>29f47700-33b1-4aff-b4ab-7d6a206e4ef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='You logged into a secure area!']/parent::*</value>
+      <webElementGuid>40a3f208-1a1c-414b-8d41-2bb38087f8cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div</value>
+      <webElementGuid>9df6ab1d-8514-4a02-a15c-8b406d1fe876</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'flash' and (text() = '
+            You logged into a secure area!
+            ×
+          ' or . = '
+            You logged into a secure area!
+            ×
+          ')]</value>
+      <webElementGuid>60175c4b-a1c7-48fc-9d39-3a4200287a66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
