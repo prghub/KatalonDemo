@@ -22,12 +22,7 @@ This project tests the login functionality on **https://the-internet.herokuapp.c
 
 The project consists of the following key components:
 
-- **Test Cases**: Contains the individual test scripts that test specific features or functionality.
-- **Test Data**: Includes test data used by the test cases, if any.
-- **Test Objects**: Stores locators for interacting with elements on the web page (such as buttons, input fields).
-- **Keywords**: Contains custom keywords for reusable actions across test cases.
-- **Reports**: Contains execution logs, screenshots, and detailed test results.
-- **Global Variables**: Stores reusable variables across test cases.
+- **Test Cases**: Contains the individual test scripts that test specific features or functionality
 
 ## File Overview
 
